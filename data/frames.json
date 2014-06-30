@@ -1,0 +1,67 @@
+{
+	"store": [
+	{
+	"0": [
+	{
+		"name":"cp01"
+	},
+	{
+		"name":"cp02"
+	},
+	{
+		"name":"cp03"
+	},
+	{
+		"name":"cp04"
+	},
+	{
+		"name":"cp05"
+	},
+	{
+		"name":"cp06"
+	}
+	]
+	},
+	{
+	"1": [
+	{
+		"name":"typo01"
+	},
+	{
+		"name":"typo02"
+	},
+	{
+		"name":"typo03"
+	},
+	{
+		"name":"typo04"
+	}
+	]
+	},
+	{
+	"2": [
+	{
+		"name":"vita01"
+	},
+	{
+		"name":"vita02"
+	},
+	{
+		"name":"vita03"
+	},
+	{
+		"name":"vita04"
+	},
+	{
+		"name":"vita05"
+	},
+	{
+		"name":"vita06"
+	},
+	{
+		"name":"vita07"
+	}
+	]
+	}
+	]
+}

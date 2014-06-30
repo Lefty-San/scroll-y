@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+div.frame {
+	width:100%;
+	display:block;
+	border:1px solid #3bc5bc;
+	height:600px;
+	overflow-x:auto;
+	overflow-y:hidden;
+	white-space: nowrap;
+	/*-webkit-overflow-scrolling: touch;*/
+}
+.cell {
+	display: inline-block;
+	width:100%;
+	height:600px;
+}
+
+.frame.0 .cell {
+	
+	
+}
+
+.frame.1 .cell {
+	
+}
+
+.frame.2 .cell {
+	background-position: bottom left;
+}
