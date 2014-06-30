@@ -20,7 +20,6 @@ $( document ).ready(function(){
 
 
 function buildFrames(picObj) {
-	console.log(picObj["store"].length);
 	
 	var frames = "";
 	var len = picObj["store"].length;
