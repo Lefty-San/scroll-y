@@ -1,0 +1,1 @@
+ I planned to do this in php but I did not have a database handy so I settled on a json file instead. Overall I thought this was good practice. Useing webkit overflow touch does not play well with the settings needed to place the fixed images. In the future I would like to come back to this and add touch listeners to help speed up the scroll.
